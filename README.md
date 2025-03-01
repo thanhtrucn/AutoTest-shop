@@ -1,2 +1,3 @@
 # AutoTest-shop
-Automated Testing for Clothing E-Commerce Website using Selenium
+Import Libraries
+Run the command python ride.py
